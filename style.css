@@ -36,7 +36,7 @@ body, html {
 
 a:link, a:hover, a:active, a:visited {
 	color: #e6e6ff;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 hr {
