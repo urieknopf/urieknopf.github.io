@@ -4,7 +4,7 @@ body, html {
 }
 
 .bgimg {
-  background-image: url('images/Overlook.jpg');
+  background-image: url('images/Fog.jpg');
   height: 100%;
   background-position: center;
   background-size: cover;
@@ -35,8 +35,15 @@ body, html {
 }
 
 a:link, a:hover, a:active, a:visited {
-	color: #e6e6ff;
+	color: #ffb7b7;
 	text-decoration: underline;
+}
+p {
+	color: #4d0101;
+}
+
+h1 {
+  color: #000000;
 }
 
 hr {
